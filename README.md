@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm thrilled to share my journey as a software dev
 - Currently diving deep into **Nest.js** to enhance my backend development skills.
 
 ### 📫 How to Reach Me
-- Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/tuguldur-gantumur-6630831b8/))
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/tuguldur-gantumur-6630831b8/)
 - Email me at: [gtrtuugii@gmail.com](mailto:gtrtuugii@gmail.com) or [toby.gantumur@gmail.com](mailto:toby.gantumur@gmail.com)
 
 <hr />
