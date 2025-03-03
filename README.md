@@ -12,13 +12,14 @@ Welcome to my GitHub profile! I'm thrilled to share my journey as a software dev
 
 ### 🔭 What I’m Working On
 - Building a full-stack web application using modern frameworks and technologies such as **Next.js**, **Nest.js**, and **Supabase**.
+- My web application can be found <u><a href="https://www.tgldr.net" target="_blank">here</a></u>.
 
 ### 🌱 What I’m Learning
 - Currently diving deep into **Nest.js** to enhance my backend development skills.
 
 ### 📫 How to Reach Me
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/tuguldur-gantumur-6630831b8/)
-- Email me at: [gtrtuugii@gmail.com](mailto:gtrtuugii@gmail.com) or [toby.gantumur@gmail.com](mailto:toby.gantumur@gmail.com)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/tobygan/)
+- Email me at: [me@tgldr.net](mailto:me@tgldr.net) or [toby.gantumur@gmail.com](mailto:toby.gantumur@gmail.com)
 
 <hr />
 
