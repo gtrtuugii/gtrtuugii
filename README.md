@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm thrilled to share my journey as a software dev
 - My web application can be found <u><a href="https://www.tgldr.net" target="_blank">here</a></u>.
 
 ### 🌱 What I’m Learning
-- Currently diving deep into **Nest.js** to enhance my backend development skills.
+- Currently diving deep into **Nest.js** and **Go lang** to enhance my backend development skills.
 
 ### 📫 How to Reach Me
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/tobygan/)
