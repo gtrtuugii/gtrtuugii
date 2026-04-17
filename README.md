@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm thrilled to share my journey as a software dev
 ### About Me
 
 <div align="center">
-  <p>I'm a Software Developer at <a href="https://[www.https://lodgex.com.au/]/" target="_blank">LodgeX</a>.</p>
+  <p>I'm a Software Developer at <a href="https://www.https://lodgex.com.au/" target="_blank">LodgeX</a>.</p>
   <p> My commits may not seem consistent as I work mostly on GitLab.</p>
 </div>
 
