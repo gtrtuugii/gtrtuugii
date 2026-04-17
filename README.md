@@ -7,12 +7,12 @@ Welcome to my GitHub profile! I'm thrilled to share my journey as a software dev
 ### About Me
 
 <div align="center">
-  <p>I'm a Software Developer at <a href="https://www.tekbox.com.au/" target="_blank">Tekbox</a>.</p>
+  <p>I'm a Software Developer at <a href="https://[www.https://lodgex.com.au/]/" target="_blank">LodgeX</a>.</p>
   <p> My commits may not seem consistent as I work mostly on GitLab.</p>
 </div>
 
 ### 🔭 What I’m Working On
-- Building a full-stack web application using modern frameworks and technologies such as **Next.js**, **Nest.js**, and **Supabase**.
+- Building a full-stack web application using modern frameworks and technologies such as **Next.js**, **Nest.js**, **Go Gin** and **Supabase**.
 - My web application can be found <u><a href="https://www.tgldr.net" target="_blank">here</a></u>.
 
 ### 🌱 What I’m Learning
