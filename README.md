@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm thrilled to share my journey as a software dev
 
 <div align="center">
   <p>I'm a Software Developer at <a href="https://www.lodgex.com.au/" target="_blank">LodgeX</a>.</p>
-  <p> My commits may not seem consistent as I work mostly on GitLab.</p>
+  <p> My commits may not seem consistent as I work mostly on using my work Github account.</p>
 </div>
 
 ### 🔭 What I’m Working On
