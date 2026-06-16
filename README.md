@@ -12,8 +12,9 @@ Welcome to my GitHub profile! I'm thrilled to share my journey as a software dev
 </div>
 
 ### 🔭 What I’m Working On
-- Building a full-stack web application using modern frameworks and technologies such as **Next.js**, **Nest.js**, **Go Gin** and **Supabase**.
+- Building a full-stack web application using modern frameworks and technologies such as **Next.js**, **Nest.js**, **Go Gin**.
 - My web application can be found <u><a href="https://www.tgldr.net" target="_blank">here</a></u>.
+- I also work on <a href="https://www.prospectx.au/" target="_blank">ProspectX</a> after work.
 
 ### 🌱 What I’m Learning
 - Currently diving deep into **Nest.js** and **Go lang** to enhance my backend development skills.
